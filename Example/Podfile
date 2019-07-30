@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'OYAttributeString_Example' do
+  pod 'OYAttributeString', :path => '../'
+
+  target 'OYAttributeString_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
