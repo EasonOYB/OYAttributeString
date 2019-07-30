@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - OYAttributeString (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - OYAttributeString (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  OYAttributeString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  OYAttributeString: f120e7ae3608c830122c5023b4cc79f23e61c83f
+
+PODFILE CHECKSUM: f83ee09ab2b7b405382cb9f144c58755f1cda589
+
+COCOAPODS: 1.7.2

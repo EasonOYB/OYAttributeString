@@ -1,0 +1,6 @@
+framework module OYAttributeString {
+  umbrella header "OYAttributeString-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OYAttributeString",
+  "version": "0.1.0",
+  "summary": "A short description of OYAttributeString.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/EasonOYB/OYAttributeString",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "EasonOYB": "oyb2013@163.com"
+  },
+  "source": {
+    "git": "https://github.com/EasonOYB/OYAttributeString.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OYAttributeString/Classes/**/*"
+}
