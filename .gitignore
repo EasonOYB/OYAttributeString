@@ -1,26 +1,34 @@
-# OS X
 .DS_Store
-
-# Xcode
+infer-out/
+*.swp
+.idea/
 build/
 *.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
+*.perspective
 *.perspectivev3
-!default.perspectivev3
-xcuserdata/
-*.xccheckout
-profile
-*.moved-aside
-DerivedData
-*.hmap
-*.ipa
+xcuserdata
+*.mode1v3
+*.mode2v3
+*.svn.*
+Anjuke2.xcodeproj/project.xcworkspace/xcshareddata/
+Anjuke2/shanghai.gpx
+Anjuke2.xcworkspace/xcuserdata/
+Anjuke2.xcworkspace/xcshareddata
+Pods
+gitupdate.sh
+tags
+PodfileDev
+dev_config.sh
+dev_build.sh
+WChatLib.a
+libWRTC.a
+DerivedData/
+.gem/
 
-# Bundler
-.bundle
+SizeReport.html
+compile_commands.json
+xcodebuild.log
+builds
 
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
 # Carthage/Checkouts

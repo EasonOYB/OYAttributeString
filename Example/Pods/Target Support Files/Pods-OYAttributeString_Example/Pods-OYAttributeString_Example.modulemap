@@ -1,6 +1,0 @@
-framework module Pods_OYAttributeString_Example {
-  umbrella header "Pods-OYAttributeString_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}
