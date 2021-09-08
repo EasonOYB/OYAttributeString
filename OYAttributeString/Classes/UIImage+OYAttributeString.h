@@ -2,7 +2,7 @@
 //  UIImage+OYAttributeString.h
 //  OYAttributeString
 //
-//  Created by t11 on 2019/8/2.
+//  Created by Eason on 2019/8/2.
 //
 
 #import <UIKit/UIKit.h>
